@@ -142,7 +142,3 @@ body {
 .lista__link a:active {
     color: rgb(255, 73, 149);
 }
-
-.botao_secundario :focus {
-    color: purple;
-}
